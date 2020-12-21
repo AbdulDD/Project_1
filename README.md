@@ -1,5 +1,5 @@
 # Project_1
-The Motive of the project is to understand periphrels of Nexys 4DDR (FPGA) Board and Integration of IP's in your own project.
+The Motive of the project is to understand peripherals of Nexys 4DDR (FPGA) Board and Integration of IP's in your own project.
 The target is to design and implement hardware to receive audio samples, store, process, and send to audio out using NEXYS 4 DDR.
 Methodology:
 1. Use built-in microphone and ADC ports
